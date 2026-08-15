@@ -195,7 +195,7 @@ g.typingUnderline rect {
 <text x="54" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" >
   <textPath xlink:href="#descriptionTyping" >
-      AI Infrastructure &amp; Ecosystem.
+      AI Infrastructure &amp; Ecosystem
   </textPath>
 </text>
 
